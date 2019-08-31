@@ -12,7 +12,6 @@ This project is a bot for Orna MMORPG Android game, aiming to automate the actio
 **Links**
 
 [Play Orna](https://playorna.com/)
-
 [Donate to Continue the Project](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKATNCTN72EHQ&source=url)
 
 
