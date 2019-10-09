@@ -18,6 +18,7 @@ This project is a bot for Orna MMORPG Android game, aiming to automate the actio
 
 # Features
 
+- Auto Raid (Coming Soon)
 - Auto Quest (Coming Soon)
 - Auto Farm (Coming Soon)
 - Auto Potion (Coming Soon)
